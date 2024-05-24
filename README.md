@@ -1,5 +1,13 @@
 # Group lab
+# Description of the project
+This project will create an ecommerce application for various categories of products (similar to Amazong, Etsy, etc).
+# Modules and who works on what
+1. Product Database/Management  - MODEL       - Hoțoleanu Raluca
+2. User & Session Management    - CONTROLLER  - Cozac Antonio
+3. Online shop Management       - CONTROLLER  - Bârzan Emma
+4. UI & Interface               - VIEW        - Mureșan Mihai
 
+# Requirements
 Steps for resolving lab:
 - Create a team of 4 or 5 students. Teams should be composed of studens from the same group (no mixed groups please);
 - Create a git repository and add team members to it;
